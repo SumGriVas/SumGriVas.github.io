@@ -1,23 +1,23 @@
 [
   {
-    "fulls": "http://localhost:3000/images/fulls/01.jpg",
-    "thumbs": "http://localhost:3000/images/thumbs/01.jpg",
-    "h2": "Diam tempus accumsan",
-    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "full": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/fulls/01.jpg",
+    "thumb": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/thumbs/01.jpg",
+    "title": "Diam tempus accumsan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "position": "center"
   },
   {
-    "fulls": "http://localhost:3000/images/fulls/02.jpg",
-    "thumbs": "http://localhost:3000/images/thumbs/02.jpg",
-    "h2": "Diam tempus accumsan",
-    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "full": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/fulls/02.jpg",
+    "thumb": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/thumbs/02.jpg",
+    "title": "Diam tempus accumsan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "position": "center"
   },
   {
-    "fulls": "http://localhost:3000/images/fulls/03.jpg",
-    "thumbs": "http://localhost:3000/images/thumbs/03.jpg",
-    "h2": "Diam tempus accumsan",
-    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "full": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/fulls/03.jpg",
+    "thumb": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/thumbs/03.jpg",
+    "title": "Diam tempus accumsan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "position": "center"
   }
 ]

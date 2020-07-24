@@ -1,21 +1,21 @@
 [
   {
-    "full": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/fulls/01.jpg",
-    "thumb": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/thumbs/01.jpg",
+    "full": "/images/fulls/01.jpg",
+    "thumb": "/images/thumbs/01.jpg",
     "title": "Diam tempus accumsan",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "position": "center"
   },
   {
-    "full": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/fulls/02.jpg",
-    "thumb": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/thumbs/02.jpg",
+    "full": "/images/fulls/02.jpg",
+    "thumb": "/images/thumbs/02.jpg",
     "title": "Diam tempus accumsan",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "position": "center"
   },
   {
-    "full": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/fulls/03.jpg",
-    "thumb": "https://raw.githubusercontent.com/SumGriVas/SumGriVas.github.io/data/images/thumbs/03.jpg",
+    "full": "/images/fulls/03.jpg",
+    "thumb": "/images/thumbs/03.jpg",
     "title": "Diam tempus accumsan",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "position": "center"
